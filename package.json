@@ -1,0 +1,12 @@
+{
+  // ...省略...
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    // ...省略...
+    "@netlify/next": "^4.47.0"
+  }
+}
